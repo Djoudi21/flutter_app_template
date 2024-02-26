@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/components/atomics/base_button.dart';
-import 'package:my_birthdays_assistant/src/components/settings_header.dart';
+import '../../../components/atomics/base_button.dart';
+import '../../../components/settings_header.dart';
 import 'settings_controller.dart';
 import 'package:provider/provider.dart';
-import 'package:my_birthdays_assistant/src/providers/auth_provider.dart';
+import '../../../providers/auth_provider.dart';
 
 /// Displays the various settings that can be customized by the user.
 ///

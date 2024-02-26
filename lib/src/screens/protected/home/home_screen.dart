@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/components/settings_header.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

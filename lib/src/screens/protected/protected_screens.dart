@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/components/base_navigation_bar.dart';
-import 'package:my_birthdays_assistant/src/providers/navbar_provider.dart';
-import 'package:my_birthdays_assistant/src/screens/protected/home/home_screen.dart';
-import 'package:my_birthdays_assistant/src/screens/protected/settings/settings_controller.dart';
+import '../../components/base_navigation_bar.dart';
+import '../../providers/navbar_provider.dart';
+import '../../screens/protected/home/home_screen.dart';
+import '../../screens/protected/settings/settings_controller.dart';
 import 'package:provider/provider.dart';
-import 'package:my_birthdays_assistant/src/screens/protected/settings/settings_screen.dart';
+import '../../screens/protected/settings/settings_screen.dart';
 
 class ProtectedScreens extends StatelessWidget {
   const ProtectedScreens({super.key, required this.controller});

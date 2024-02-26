@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:my_birthdays_assistant/src/models/auth/register_response_data.dart';
-import 'package:my_birthdays_assistant/src/models/auth/register_response_data_error.dart';
-import 'package:my_birthdays_assistant/src/repositories/interfaces/auth_repository.dart';
-import 'package:my_birthdays_assistant/src/utils/constants.dart';
+import '../models/auth/register_response_data.dart';
+import '../models/auth/register_response_data_error.dart';
+import '../repositories/interfaces/auth_repository.dart';
+import '../utils/constants.dart';
 import '../models/auth/login_response_data.dart';
 import '../models/auth/login_response_data_error.dart';
 import 'package:fpdart/fpdart.dart';

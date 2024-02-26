@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/screens/public/login/login_screen.dart';
-import 'package:my_birthdays_assistant/src/screens/protected/protected_screens.dart';
-import 'package:my_birthdays_assistant/src/screens/public/register/register_screen.dart';
-import 'package:my_birthdays_assistant/src/screens/protected/settings/settings_controller.dart';
+import '../screens/public/login/login_screen.dart';
+import '../screens/protected/protected_screens.dart';
+import '../screens/public/register/register_screen.dart';
+import '../screens/protected/settings/settings_controller.dart';
 
 class RouteGenerator {
   static const loginPage = '/';

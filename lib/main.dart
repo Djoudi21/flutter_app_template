@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/providers/auth_provider.dart';
-import 'package:my_birthdays_assistant/src/providers/navbar_provider.dart';
+import './src/providers/auth_provider.dart';
+import './src/providers/navbar_provider.dart';
 import 'package:provider/provider.dart';
 import 'src/app.dart';
 import 'src/screens/protected/settings/settings_controller.dart';

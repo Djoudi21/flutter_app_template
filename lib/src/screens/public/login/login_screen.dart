@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/router/route_generator.dart';
+import '../../../router/route_generator.dart';
 import '../../../components/login_form.dart';
 
 class LoginScreen extends StatefulWidget {

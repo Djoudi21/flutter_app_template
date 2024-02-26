@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/components/register_form.dart';
-import 'package:my_birthdays_assistant/src/router/route_generator.dart';
+import '../../../components/register_form.dart';
+import '../../../router/route_generator.dart';
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({super.key});

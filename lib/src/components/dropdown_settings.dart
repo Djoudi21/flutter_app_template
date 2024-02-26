@@ -1,4 +1,4 @@
-import 'package:my_birthdays_assistant/src/screens/protected/settings/settings_controller.dart';
+import '../screens/protected/settings/settings_controller.dart';
 import 'package:flutter/material.dart';
 
 class DropdownSettings extends StatelessWidget {

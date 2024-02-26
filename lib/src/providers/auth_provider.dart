@@ -1,6 +1,6 @@
-import 'package:my_birthdays_assistant/src/repositories/dio_auth_repository.dart';
+import '../repositories/dio_auth_repository.dart';
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/router/route_generator.dart';
+import '../router/route_generator.dart';
 import '../providers/navbar_provider.dart';
 import 'package:provider/provider.dart';
 

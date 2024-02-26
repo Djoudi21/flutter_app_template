@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/providers/auth_provider.dart';
+import '../providers/auth_provider.dart';
 import 'package:provider/provider.dart';
 
 class SettingsHeader extends StatelessWidget {

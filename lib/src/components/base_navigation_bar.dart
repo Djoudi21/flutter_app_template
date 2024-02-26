@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/providers/navbar_provider.dart';
+import '../providers/navbar_provider.dart';
 import 'package:provider/provider.dart';
 
 class BaseNavigationBar extends StatelessWidget {

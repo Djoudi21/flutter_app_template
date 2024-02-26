@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:my_birthdays_assistant/src/providers/auth_provider.dart';
-import 'package:my_birthdays_assistant/src/router/route_generator.dart';
-import 'package:my_birthdays_assistant/src/components/atomics/base_input.dart';
-import 'package:my_birthdays_assistant/src/components/atomics/base_button.dart';
+import '../providers/auth_provider.dart';
+import '../router/route_generator.dart';
+import '../components/atomics/base_input.dart';
+import '../components/atomics/base_button.dart';
 import 'package:provider/provider.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
